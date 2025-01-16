@@ -1,7 +1,7 @@
 # Budget-Combat
 
 ## Overview
-Budget Combat is a 2D resource management and combat game. There are 5 total levels, and each level will get increasingly difficult as you progress. Fortunately, your budget and available arsenal will grow as well. Good luck!
+Budget Combat is a 2D resource management and combat game. There are 3 total levels, and each level will get increasingly difficult as you progress. Fortunately, your budget and available arsenal will grow as well. Good luck!
 
 ## Mechanics
 With each level, you are given a finite budget to choose weapons, ammunition, and tools to help you reach your final destination. Spend your budget wisely.
